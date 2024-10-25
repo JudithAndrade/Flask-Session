@@ -8,3 +8,11 @@ Este proyecto implementa un sistema de autenticación simple utilizando `Flask-S
 
 ```bash
 git clone <URL-del-repositorio>
+```
+### 2.Cambiar al directorio del proyecto
+
+```bash
+cd <nombre-del-directorio>
+```
+
+

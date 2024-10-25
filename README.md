@@ -35,8 +35,7 @@ debera ir  click a
 http://127.0.0.1:5000
 ```
 primero lo que parece la paguina de Inicio sesion  
-![Captura de pantalla (15)](https://github.com/user-attachments/assets/0bfa9067-9f0c-492e-ad54-9b2257c47453)
-
+![Captura de pantalla (14)](https://github.com/user-attachments/assets/a6b96003-0f49-4259-8880-51b5367e27a4)
 
 
  Luego esta Registro en la parte inferior esta ¿No tienes una cuenta? Regístrate debe ir  Registrate

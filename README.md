@@ -14,5 +14,21 @@ git clone <URL-del-repositorio>
 ```bash
 cd <nombre-del-directorio>
 ```
+### 3.Instalar las dependencias
+
+```bash
+pip install Flask
+```
+
+```bash
+pip install Flask flask-bcrypt 
+```
+
+Primero tener instalado Visual Studio code y Python ya instalado estos debe abrir visual abri la carpeta  buscar archivo app.py
+podra inicliazar  
+![image](https://github.com/user-attachments/assets/9e7171ca-1c7e-4d28-b99c-6339d20766ac)
+
+
+
 
 
